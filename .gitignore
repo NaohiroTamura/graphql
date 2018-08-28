@@ -1,0 +1,14 @@
+.*.swp
+.*sw?
+*~
+TAGS
+GPATH
+GRTAGS
+GTAGS
+httpd.log
+_site/
+Gemfile.lock
+vendor/
+demoCA/
+node_modules
+
